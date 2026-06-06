@@ -1,1 +1,22 @@
+{
+  "enabled": true,
+  "sessionHours": 12,
+  "offlineGraceMinutes": 10,
+  "title": "Đăng nhập BShip Assistant",
+  "message": "Tài khoản do người quản lý cấp.",
+  "users": [
+    {
+      "username": "admin",
+      "passwordHash": "8bbf89a49b353342e77e5d22d2683b3a2a5e8a828b8c03e30303c247b500e978",
+      "active": true,
+      "role": "owner"
+    },
+    {
+      "username": "huynhtantai",
+      "passwordHash": "d738b26f2a2c9ce8b23aa32adbc89d0a8c123257599b5c03d471669fc96d3be0",
+      "active": true,
+      "role": "user"
+    }
+  ]
+}
 
