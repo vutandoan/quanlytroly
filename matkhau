@@ -3,7 +3,7 @@
   "sessionHours": 12,
   "offlineGraceMinutes": 10,
   "minimumVersion": "6.0.82.44",
-  "configRevision": "2026-06-06-v44",
+  "configRevision": "2026-06-06-v44-fix-json",
   "forceLogoutBefore": "",
   "maintenanceMode": false,
   "teamApiUrl": "https://script.google.com/macros/s/AKfycbw2YCqxjz4p2NdW6TH3CYaFRzmsPuNU7ci8yyD84OyaBOKMXW8euGqFLjvCgE5qErG8hQ/exec",
