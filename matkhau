@@ -6,7 +6,7 @@
   "message": "Tài khoản do người quản lý cấp.",
   "users": [
     {
-      "username": "admin",
+      "username": "vutandoan",
       "passwordHash": "8bbf89a49b353342e77e5d22d2683b3a2a5e8a828b8c03e30303c247b500e978",
       "active": true,
       "role": "owner"
