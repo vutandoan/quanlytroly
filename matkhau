@@ -6,7 +6,7 @@
   "configRevision": "2026-06-06-v44",
   "forceLogoutBefore": "",
   "maintenanceMode": false,
-  "teamApiUrl": "DAN_URL_GOOGLE_APPS_SCRIPT_WEB_APP_EXEC_VAO_DAY",
+  "teamApiUrl": "https://script.google.com/macros/s/AKfycbw2YCqxjz4p2NdW6TH3CYaFRzmsPuNU7ci8yyD84OyaBOKMXW8euGqFLjvCgE5qErG8hQ/exec",
   "announcement": {
     "active": true,
     "level": "info",
