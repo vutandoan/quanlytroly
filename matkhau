@@ -23,7 +23,7 @@
       "branches": ["*"]
     },
     {
-      "username": "huyntantai",
+      "username": "huynhtantai",
       "displayName": "Giám đốc",
       "passwordHash": "d738b26f2a2c9ce8b23aa32adbc89d0a8c123257599b5c03d471669fc96d3be0",
       "active": true,
