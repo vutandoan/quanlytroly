@@ -33,9 +33,9 @@
       "sessionRevision": "1"
     },
     {
-      "username": "user",
+      "username": "user1",
       "displayName": "Nhân viên",
-      "passwordHash": "sha256:DAN_MA_BAM_USER_VAO_DAY",
+      "passwordHash": "8bbf89a49b353342e77e5d22d2683b3a2a5e8a828b8c03e30303c247b500e978",
       "active": true,
       "role": "user",
       "permissions": ["*"],
