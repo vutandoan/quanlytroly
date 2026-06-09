@@ -50,7 +50,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "2"
     },
     {
       "username": "user3",
