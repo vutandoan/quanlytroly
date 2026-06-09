@@ -35,7 +35,7 @@
     {
       "username": "user1",
       "displayName": "Nhân viên",
-      "passwordHash": "ca7ff1090441a69d97677bb0bab331617429a362a2835a29eb5f3f47600a10f0",
+      "passwordHash": "0a041b9462caa4a31bac3567e0b6e6fd9100787db2ab433d96f6d178cabfce90",
       "active": true,
       "role": "user",
       "permissions": ["*"],
