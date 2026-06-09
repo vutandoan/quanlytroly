@@ -131,6 +131,56 @@
       "permissions": ["*"],
       "branches": ["*"],
       "sessionRevision": "1"
+    },
+    {
+      "username": "user11",
+      "displayName": "Nhân viên",
+      "passwordHash": "81115e31e22a5801b197750ec12d7a51ad693aa017ecc8bca033cbd500a928b6",
+      "active": true,
+      "role": "user",
+      "permissions": ["*"],
+      "branches": ["*"],
+      "sessionRevision": "1"
+    },
+    {
+      "username": "user12",
+      "displayName": "Nhân viên",
+      "passwordHash": "bd35283fe8fcfd77d7c05a8bf2adb85c773281927e12c9829c72a9462092f7c4",
+      "active": true,
+      "role": "user",
+      "permissions": ["*"],
+      "branches": ["*"],
+      "sessionRevision": "1"
+    },
+    {
+      "username": "user13",
+      "displayName": "Nhân viên",
+      "passwordHash": "1834e148b518a43a37e04a4e4fbcee1eb845de6ee5a3f04fe9fb749f9695be42",
+      "active": true,
+      "role": "user",
+      "permissions": ["*"],
+      "branches": ["*"],
+      "sessionRevision": "1"
+    },
+    {
+      "username": "user14",
+      "displayName": "Nhân viên",
+      "passwordHash": "daf7996f88742675acb3d0f85a8069d02fdf1c4dc2026de7f01a0ba7e65922fb",
+      "active": true,
+      "role": "user",
+      "permissions": ["*"],
+      "branches": ["*"],
+      "sessionRevision": "1"
+    },
+    {
+      "username": "user15",
+      "displayName": "Nhân viên",
+      "passwordHash": "2b8b66f64b605318593982b059a08dae101c0bdf5d8cb882a0891241a704f46c",
+      "active": true,
+      "role": "user",
+      "permissions": ["*"],
+      "branches": ["*"],
+      "sessionRevision": "1"
     }
   ]
 }
