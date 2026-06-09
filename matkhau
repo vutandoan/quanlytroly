@@ -60,7 +60,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "3"
     },
     {
       "username": "user4",
@@ -70,7 +70,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "4"
     },
     {
       "username": "user5",
@@ -80,7 +80,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "5"
     },
     {
       "username": "user6",
@@ -90,7 +90,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "6"
     },
     {
       "username": "user7",
@@ -100,7 +100,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "7"
     },
     {
       "username": "user8",
@@ -110,7 +110,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "8"
     },
     {
       "username": "user9",
@@ -120,7 +120,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "9"
     },
     {
       "username": "user10",
@@ -130,7 +130,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "10"
     },
     {
       "username": "user11",
@@ -140,7 +140,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "11"
     },
     {
       "username": "user12",
@@ -150,7 +150,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "12"
     },
     {
       "username": "user13",
@@ -160,7 +160,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "13"
     },
     {
       "username": "user14",
@@ -170,7 +170,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "14"
     },
     {
       "username": "user15",
@@ -180,7 +180,7 @@
       "role": "user",
       "permissions": ["*"],
       "branches": ["*"],
-      "sessionRevision": "1"
+      "sessionRevision": "15"
     }
   ]
 }
